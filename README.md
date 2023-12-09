@@ -1,15 +1,14 @@
-![](https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/408058612_1051492899383590_740443267732292110_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEikI_AbCTz5UG4WrNC3Q3PVeHBrm5_pApV4cGubn-kCuTu4KPDOdmmbwBQRnjJF5tLu3dvoUvIrOFrWXSzyYA_&_nc_ohc=5JfUoZdVohcAX-hWQd5&_nc_ht=scontent.fcgp7-1.fna&oh=00_AfBxzFiK6TZK9KzN9xDDki23r8-QjndxtqfNmHcD17LzXA&oe=6579259D)
-
-
-
 <h1 align="center">Hi there, I'm Tofazzal Hossain👋,</h1>
 <h4 align="center">A passionate frontend developer from Bangladesh</h4>
+
+![](https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/408058612_1051492899383590_740443267732292110_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEikI_AbCTz5UG4WrNC3Q3PVeHBrm5_pApV4cGubn-kCuTu4KPDOdmmbwBQRnjJF5tLu3dvoUvIrOFrWXSzyYA_&_nc_ohc=5JfUoZdVohcAX-hWQd5&_nc_ht=scontent.fcgp7-1.fna&oh=00_AfBxzFiK6TZK9KzN9xDDki23r8-QjndxtqfNmHcD17LzXA&oe=6579259D)
+
 
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinhossain123&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinhossain123" /> </p>
-
+<h3 align="left">About me:</h3>
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React**
