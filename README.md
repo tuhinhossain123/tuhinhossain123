@@ -1,8 +1,9 @@
 
 
+
 <h1 align="center">Hi there, I'm Tofazzal Hossain👋,</h1>
 <h4 align="center">A passionate frontend developer from Bangladesh</h4>
-![](image.png)
+![](banner(3).png)
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
@@ -35,7 +36,6 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinhossain123&" alt="tuhinhossain123" /></p>
-
 
 
 
