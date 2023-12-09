@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Tofazzal Hossain👋,</h1>
+<h1 align="center">Hi there, I'm Tofazzal Hossain👋</h1>
 <h4 align="center">A passionate frontend developer from Bangladesh</h4>
+
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinhossain123&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinhossain123" /> </p>
 
@@ -24,6 +26,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinhossain123&show_icons=true&locale=en&layout=compact" alt="tuhinhossain123" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuhinhossain123&show_icons=true&locale=en" alt="tuhinhossain123" /></p>
+
 
 
 
