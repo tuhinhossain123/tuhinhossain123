@@ -2,25 +2,18 @@
 
 ![](https://scontent.fdac163-1.fna.fbcdn.net/v/t39.30808-6/409808548_1054699765729570_4958658323120238277_n.png?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeGayNIBm6b57vifJtHIW6ogLhEDC7waF9kuEQMLvBoX2Wbr74Ct-LGM_zXxTpnKhCW6rBT0BBwaHyhofNROkp7u&_nc_ohc=D2nrXG3hsp4AX_JLBLm&_nc_ht=scontent.fdac163-1.fna&oh=00_AfAAzFmz6C-Q9edAYdjC3ORduQ0v3PXl-JQQ9ZPX_vbGyA&oe=658206E7)
 
+<h3 align="left">💁 About Me:</h3>
 
+<h4>As a Web Developer, I aim to blend creativity and technical proficiency to craft seamless and visually captivating user experiences. Committed to staying 
+current with industry trends, I aim to contribute innovative solutions and collaborate within dynamic teams to elevate web development projects.</h4>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinhossain123&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinhossain123" /> </p>
-<h3 align="left">About me:</h3>
+<h3 align="left">💁 About Me:</h3>
 
-<h4>As a Web Developer, I aim to blend creativity and technical proficiency to craft seamless
-and visually captivating user experiences. Committed to staying current with industry trends, I aim to
-contribute innovative solutions and collaborate within dynamic teams to elevate web development
-projects.</h4>
-
-- 🌱 I’m currently learning **Typescprit**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **csetuhin55@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+<h4>As a Web Developer, I aim to blend creativity and technical proficiency to craft seamless and visually captivating user experiences. Committed to staying 
+current with industry trends, I aim to contribute innovative solutions and collaborate within dynamic teams to elevate web development projects.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
