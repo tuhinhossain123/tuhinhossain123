@@ -9,6 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinhossain123&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinhossain123" /> </p>
 <h3 align="left">About me:</h3>
 
+<h4>As a Web Developer, I aim to blend creativity and technical proficiency to craft seamless
+and visually captivating user experiences. Committed to staying current with industry trends, I aim to
+contribute innovative solutions and collaborate within dynamic teams to elevate web development
+projects.</h4>
+
 - 🌱 I’m currently learning **Typescprit**
 
 - 💬 Ask me about **React**
