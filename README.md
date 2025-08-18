@@ -1,10 +1,8 @@
 <h1 align="left">Hi there, I'm Tofazzal Hossain👋,</h1>
 
-<h3 align="left">💁 About Me:</h3>
-<ul></ul>
-
-<h6>As a Web Developer, I aim to blend creativity and technical proficiency to craft seamless and visually captivating user experiences. Committed to staying 
-current with industry trends, I aim to contribute innovative solutions and collaborate within dynamic teams to elevate web development projects.</h6>
+<h3 align="left">💁 About Me :</h3>
+<h3>As a Web Developer, I aim to blend creativity and technical proficiency to craft seamless and visually captivating user experiences. Committed to staying 
+current with industry trends, I aim to contribute innovative solutions and collaborate within dynamic teams to elevate web development projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
