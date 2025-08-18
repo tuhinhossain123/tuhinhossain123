@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinhossain123&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinhossain123" /> </p>
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typescprit**
 
 - 💬 Ask me about **React**
 
