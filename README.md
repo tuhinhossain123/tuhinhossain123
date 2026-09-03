@@ -27,10 +27,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" 
-    alt="GitHub Stats"
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinhossain123&theme=dark&hide_border=false"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -39,10 +39,10 @@
 ## 📫 Contact Me
 
 <p>
-  <a href="www.linkedin.com/in/tofazzal-hossain-hossain">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/tofazzal-hossain-hossain/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="fixano.tofazzal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:fixano.tofazzal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
