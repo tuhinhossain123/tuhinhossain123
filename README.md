@@ -27,12 +27,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinhossain123&theme=dark&hide_border=false"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=tuhinhossain123&theme=dark"
+    width="48%"
+    alt="GitHub Streak Stats"
   />
-</p>
+
+</div>
 
 <br>
 
